@@ -1,0 +1,19 @@
+{
+  "name": "Solarized Light",
+  "colors": {
+    "bg": "fdf6e3",
+    "bg1": "",
+    "bg2": "",
+    "fg0": "",
+    "fg": "",
+    "fg1": "",
+    "red": "dc322f",
+    "green": "859900",
+    "yellow": "b58900",
+    "blue": "268bd2",
+    "violet": "6c71c4",
+    "cyan": "2aa198",
+    "orange": "cb4b16",
+    "magenta": "d33682"
+  }
+}

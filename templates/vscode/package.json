@@ -1,0 +1,35 @@
+{
+    "name": "solarized",
+    "version": "1.0.0",
+    "displayName": "Solarized",
+    "description": "Solarized theme for VS Code",
+    "publisher": "mk12",
+    "repository": "https://github.com/mk12/vscode-solarized-theme",
+    "license": "MIT",
+    "icon": "icon.png",
+    "keywords": [
+        "solarized",
+        "dark",
+        "light"
+    ],
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark.json"
+            },
+            {
+                "label": "Solarized Light+",
+                "uiTheme": "vs",
+                "path": "./themes/light.json"
+            }
+        ]
+    }
+}
